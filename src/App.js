@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Test</h1>
+        <h1>Oppskrift</h1>
       </header>
       <main>
 
